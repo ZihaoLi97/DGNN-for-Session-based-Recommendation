@@ -1,1 +1,1 @@
-# DGNN-for-Session-based-Recommendation-
+# DGNN-for-Session-based-Recommendation
